@@ -1,0 +1,10 @@
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\bin\Release\Edmond_Connect4.exe.config
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\bin\Release\Edmond_Connect4.exe
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\bin\Release\Edmond_Connect4.pdb
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.csprojResolveAssemblyReference.cache
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.Form1.resources
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.Form2.resources
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.Properties.Resources.resources
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.csproj.GenerateResource.Cache
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.exe
+C:\Users\Osemudiamen\documents\visual studio 2012\Projects\Edmond_Connect4\Edmond_Connect4\obj\Release\Edmond_Connect4.pdb
